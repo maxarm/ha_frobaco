@@ -1,0 +1,4 @@
+{
+    "name": "Fronius Battery Control",
+    "domains": ["sensor"]
+}

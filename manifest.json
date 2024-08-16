@@ -1,0 +1,13 @@
+{
+  "domain": "frobaco",
+  "name": "Fronius Battery Control",
+  "codeowners": ["@maxarm"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/maxarm/ha_frobaco",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": ["pyModbusTCP==0.2.2"],
+  "ssdp": [],
+  "zeroconf": []
+}
