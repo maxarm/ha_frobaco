@@ -4,11 +4,11 @@
   "codeowners": ["@maxarm"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/maxarm/ha_frobaco",
+  "documentation": "https://www.home-assistant.io/integrations/frobaco",
   "homekit": {},
   "iot_class": "local_polling",
   "requirements": ["pyModbusTCP==0.2.2"],
   "ssdp": [],
   "zeroconf": [],
-  "version": "0.2.0"
+  "version": "0.3.0"
 }
